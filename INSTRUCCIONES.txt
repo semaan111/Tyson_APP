@@ -1,0 +1,10 @@
+TYSON BOXING CLUB - CORRECCION
+
+1. Abre https://github.com/semaan111/TysonAppCol
+2. Add file > Upload files. Arrastra los archivos de esta carpeta (NO la carpeta ni el ZIP).
+3. Conserva index.html, tyson-3d.png, music.js y los otros archivos en la RAIZ del repositorio.
+4. Confirma Commit changes.
+5. Espera a que termine Actions y recarga la pagina con Ctrl+Shift+R.
+6. Si Spotify bloquea el control automatizado, abre los tres puntos y usa Play en el reproductor incrustado.
+
+Spotify no garantiza autoplay, volumen automatico ni control externo del iframe en todos los navegadores.
